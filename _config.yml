@@ -9,9 +9,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Jumpdoor
-tagline:             'Adventure begins'
-description:         ''
+title:               IS9
+tagline:             'Information Security Notes'
+description:         'Notes on information security.'
 url:                 http://notes.is9.co
 baseurl:             /
 paginate:            5
@@ -19,8 +19,8 @@ paginate:            5
 # About/contact
 author:
   name:              jondb
-  url:               https://www.jumpdoor.io
-  email:             jon@jumpdoor.io
+  url:               https://www.is9.co
+  email:             jon@is9.co
 
 # Custom vars
 version:             1.0.0
