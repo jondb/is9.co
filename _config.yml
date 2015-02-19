@@ -12,7 +12,7 @@ relative_permalinks: true
 title:               Jumpdoor
 tagline:             'Adventure begins'
 description:         ''
-url:                 http://www.jumpdoor.io
+url:                 http://notes.is9.co
 baseurl:             /
 paginate:            5
 
